@@ -192,6 +192,7 @@ Results and models are available in the [model zoo](docs/en/model_zoo.md).
       <td>
         <ul>
           <li><a href="configs/panoptic_fpn">Panoptic FPN (CVPR'2019)</a></li>
+          <li><a href="configs/panoptic_deeplab">Panoptic-Deeplab (CVPR'2020)</a></li>
           <li><a href="configs/maskformer">MaskFormer (NeurIPS'2021)</a></li>
           <li><a href="configs/mask2former">Mask2Former (ArXiv'2021)</a></li>
         </ul>
